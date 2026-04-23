@@ -1,0 +1,14 @@
+[project]
+name = "cda-case2"
+version = "0.1.0"
+description = "CDA Case II - Topic 2: The Representation Challenge"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "umap-learn>=0.5",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "scipy>=1.12",
+]
